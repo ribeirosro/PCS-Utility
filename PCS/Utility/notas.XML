@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>Teste1</string>
+    </void>
+    <void property="usuario">
+     <string>Pedro</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>55555555555555444</string>
+    </void>
+    <void property="usuario">
+     <string>Pedro</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>Teste1</string>
+    </void>
+    <void property="usuario">
+     <string>Rodrigo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>Teste2</string>
+    </void>
+    <void property="usuario">
+     <string>Rodrigo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>Eu sou linda</string>
+    </void>
+    <void property="usuario">
+     <string>Renata</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.BlocoDeNotas">
+    <void property="nota">
+     <string>Eu sou muito 22ka</string>
+    </void>
+    <void property="usuario">
+     <string>Renata</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

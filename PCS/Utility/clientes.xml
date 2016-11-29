@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_101" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>rod123</string>
+    </void>
+    <void property="usuario">
+     <string>Rodrigo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>paula123</string>
+    </void>
+    <void property="usuario">
+     <string>Paula</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>101010a</string>
+    </void>
+    <void property="usuario">
+     <string>Fabio</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>dani2109</string>
+    </void>
+    <void property="usuario">
+     <string>Danielle</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>12345</string>
+    </void>
+    <void property="usuario">
+     <string>Pedro</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Classes.Cliente">
+    <void property="senha">
+     <string>123123</string>
+    </void>
+    <void property="usuario">
+     <string>Renata</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
